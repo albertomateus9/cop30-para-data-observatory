@@ -1,0 +1,11 @@
+[project]
+name = "cop30-para-data-observatory"
+version = "0.1.0"
+description = "Integrator project combining public-data samples, SQLite, notebooks, and charts about Para in the COP30 context."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Alberto Mateus P. da Gama" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

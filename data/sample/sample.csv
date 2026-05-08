@@ -1,0 +1,6 @@
+indicator,source,year,value,unit
+Deforestation,INPE,2024,4300,km2
+Population,IBGE,2024,8660000,people
+Rainfall,INMET,2024,2750,mm
+AirQuality,OpenAQ,2024,21,pm25
+EnergyAccess,SEMA-PA,2024,88,percent
